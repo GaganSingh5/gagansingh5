@@ -13,12 +13,14 @@
   
 ### About Me
 
-👋 Software engineer with 3 years of industry experience  
-🎓 Pursuing Master's in Applied Computing at the University of Windsor  
-💻 Passionate about problem-solving through code  
-🌱 Dedicated to continuous learning and staying updated with technology  
-🚀 Thrive in collaborative environments to deliver impactful solutions  
-🌟 Let's connect and collaborate on exciting projects!
+👋 Hi, I'm a Software Engineer with 3 years of industry experience, specializing in turning complex problems into clean, efficient code. I hold a Master's in Applied Computing from the University of Windsor and am driven by a passion for continuous learning.
+
+- 💻 3+ years of professional experience
+- 🎓 Master's in Applied Computing (UWindsor)
+- 🌱 Dedicated to learning and staying current with new technologies
+- 🚀 A collaborative teammate eager to build impactful solutions
+
+Looking to connect and collaborate on exciting projects!
   
 
 <!--
