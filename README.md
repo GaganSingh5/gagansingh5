@@ -13,14 +13,20 @@
   
 ### About Me
 
-👋 Hi, I'm a Software Engineer with 3 years of industry experience, specializing in turning complex problems into clean, efficient code. I hold a Master's in Applied Computing from the University of Windsor and am driven by a passion for continuous learning.
+👋 Hi, I'm Gagandeep, a Software and Data Engineer with over 4 years of industry experience specializing in full-stack development, cloud architecture, and AI-driven systems. I hold a Master's in Applied Computing (Artificial Intelligence Specialization) from the University of Windsor and am highly passionate about building scalable, data-intensive applications.
 
-- 💻 3+ years of professional experience
-- 🎓 Master's in Applied Computing (UWindsor)
-- 🌱 Dedicated to learning and staying current with new technologies
-- 🚀 A collaborative teammate eager to build impactful solutions
+- 💻 **Experience:** 4+ years building backend microservices, ETL/ELT data pipelines, and full-stack web applications.
+- 🎓 **Education:** Master of Applied Computing (AI Specialization) @ UWindsor | B.Tech in CS.
+- ☁️ **Certifications:** Google Cloud Platform (GCP) Associate Cloud Engineer.
+- 🛠️ **Tech Stack:** Java, Python, TypeScript, React, Node.js, Spring Boot, SQL, PostgreSQL, PySpark, D3.js.
+- ⚙️ **Cloud & Architecture:** GCP, AWS (Lambda, DynamoDB), Azure (Databricks, Data Factory, Synapse), Kafka, REST APIs.
+- 🧠 **Recent Projects:** 
+  - **DocuBrain:** A Retrieval-Augmented Generation (RAG) AI microservice pipeline built with FastAPI, Python, and vector databases for semantic search.
+  - **Salary Stratos:** A full-stack job aggregation platform utilizing Java, React, Spring Boot, and a custom Trie data structure.
+  - **NetShell:** A custom C-based CLI featuring socket programming and a Round-Robin load balancer.
+- 🌱 **Current Focus:** Refining AI/RAG agent orchestration, event-driven cloud architectures, and continuous learning.
 
-Looking to connect and collaborate on exciting projects!
+📫 **Let's Connect:** Looking to collaborate on cloud engineering, AI integrations, and full-stack SaaS projects!
   
 
 <!--
